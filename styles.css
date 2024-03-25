@@ -1,0 +1,55 @@
+h3{
+    color:#1577ff;
+    border-bottom: 2px solid #1577ff;
+    display:inline;
+
+}
+
+h2{
+    border-bottom: 2px solid #7b7b7b;
+    text-align: center;
+}
+
+a{
+    color:#00376c;
+    text-decoration: none;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#00376c;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.services p{
+    font-style:italic;
+
+}
+
+footer{
+    font-style: italic;
+    text-align: center; 
+    background-color: #c7e3ff; 
+    margin-bottom: 40px; 
+    padding: 10px; 
+}
+
+header {
+    border-bottom: 6px solid #7b7b7b;
+    line-height: 80px; 
+    text-align: center; 
+    background-color: #c7e3ff; 
+    margin-bottom: 40px; 
+}
+
+
+.story, .services, .locations {
+    padding: 10px 15px;
+    margin-bottom: 40px; 
+    background-color: #e7e7e7; 
+}
+
+img {
+    width: 150px;
+}
